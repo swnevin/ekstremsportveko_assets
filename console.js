@@ -122,7 +122,7 @@ const FormExtension = {
 
 
 let proactiveMessage = "Hello, I'm happy to help you! 👋";
-            let widgetStyleSheet = "https://swnevin.github.io/vinjerock_assets/styles.css";
+            let widgetStyleSheet = "https://swnevin.github.io/ekstremsportveko_assets/styles.css";
 
             (function(d, t) {
                 var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
