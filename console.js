@@ -128,7 +128,7 @@ let proactiveMessage = "Hello, I'm happy to help you! 👋";
                 var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
                 v.onload = function() {
                     window.voiceflow.chat.load({
-                        verify: { projectID: '67336fa58dabe37808e8e4ec' },
+                        verify: { projectID: '6733bd4d8dabe37808e93fdc' },
                         url: 'https://general-runtime.voiceflow.com',
                         versionID: 'production',
                         allowDangerousHTML: true,
