@@ -121,7 +121,7 @@ const FormExtension = {
 
 
 
-let proactiveMessage = "Hei, eg hjelper deg gjerne!👋";
+let proactiveMessage = "Hello, I'm happy to help you! 👋";
             let widgetStyleSheet = "https://swnevin.github.io/vinjerock_assets/styles.css";
 
             (function(d, t) {
