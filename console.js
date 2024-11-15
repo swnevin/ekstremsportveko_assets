@@ -70,7 +70,7 @@ const FormExtension = {
       <label for="topic">Topic</label>
       <input type="text" class="topic" name="topic" required><br><br>
 
-      <label for="userQuestion">Melding</label>
+      <label for="userQuestion">Message</label>
       <textarea class="userQuestion" name="userQuestion" required></textarea><br><br>
 
       <input type="submit" class="submit" value="Submit">
