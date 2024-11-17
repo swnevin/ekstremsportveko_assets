@@ -182,12 +182,12 @@
     color: #ffffff;
     border-radius: 7.5px;
     background-color: #1b1c1c;
-    content: "Start ny samtale";
+    content: "Start New Chat";
   }
   
   .vfrc-prompt button.vfrc-button--primary[label="End Chat"]::after,
   footer button.vfrc-button--primary[label="End Chat"]::after {
-    content: "Avslutt samtale";
+    content: "End Chat";
   }
   
   .vfrc-prompt button.vfrc-button--primary[label=Cancel]::after,
